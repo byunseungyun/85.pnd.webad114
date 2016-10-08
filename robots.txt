@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap:http://pnd.webad114.com/sitemap.xml
-
-User-agent:Yeti
-Disallow: 
